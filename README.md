@@ -1,4 +1,4 @@
-# cseku_apl_24_230220
+# cseku_apl_24_230236
 Advanced Programming Laboratory Sessional Course repository of StudentID 230220 
 
 ### Course Details
@@ -14,8 +14,8 @@ Computer Science and Engineering Discipline,
 Khulna University, Khulna.   
 
 ## Submitted by
-Kazi Rifat Morshed  
-Student ID: 230220  
+Md. Rimon Islam  
+Student ID: 230236  
 Undergraduate Student of B.Sc. Engg. in CSE,  
 2nd year, 1st term,  
 Computer Science and Engineering Discipline,  
